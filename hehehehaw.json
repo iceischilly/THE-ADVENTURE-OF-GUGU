@@ -1,0 +1,28 @@
+{
+    "hp": 100,
+    "inv": [
+        "default csgo knife",
+        "dragon lore awp",
+        "hammer"
+    ],
+    "mp": 105,
+    "spellbook": [
+        "BIG ROCK"
+    ],
+    "gend": 0,
+    "roknum": 1,
+    "maxhp": 100,
+    "shpp": 0,
+    "mhpp": 0,
+    "lhpp": 0,
+    "mpp": 0,
+    "gp": 60,
+    "stuff": [],
+    "armor": 1,
+    "magicrobe": 1,
+    "savepoint": 1,
+    "mcsnum": 0,
+    "mcslvl": 0,
+    "savepointt": false,
+    "checkpoint": null
+}
